@@ -98,16 +98,16 @@ git checkout -b feature/your-feature-name
 - Use clear and meaningful commit messages.
 
 **Format:**
-
-###### type: short description
-
+```
+type: short description
+```
 
 **Examples:**
-
+```
 feat: add Twitter share support
 fix: resolve mobile button spacing issue
 docs: improve README installation section
-
+```
 ### 6️⃣ Push and Open a Pull Request
 Before pushing, sync with upstream:
 ```bash
@@ -131,22 +131,17 @@ Push your branch:
 
 - Any relevant issue reference
 
-#### 📋 Pull Request Guidelines
+## 📋 Pull Request Guidelines
 ### ✅ Before Submitting
 - [ ] Code tested
 - [ ] Documentation updated
 - [ ] Linked related issue
 - [ ] Branch rebased with upstream
-- [ ] 
-- Keep PRs small and focused.
-
-- One feature or fix per PR.
-
-- Avoid large unrelated changes.
-
-- Ensure documentation is updated if needed.
-
-- Be responsive to review feedback.
+- [ ] Keep PRs small and focused.
+- [ ] One feature or fix per PR.
+- [ ] Avoid large unrelated changes.
+- [ ] Ensure documentation is updated if needed.
+- [ ] Be responsive to review feedback.
 
 #### 🤝 Code of Conduct
 
