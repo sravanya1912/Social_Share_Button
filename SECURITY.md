@@ -7,11 +7,14 @@ Security updates will be applied to the latest stable version.
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in SocialShareButton, please report it responsibly.
+If you discover a security vulnerability, please **do not open a public GitHub issue**.
 
-Please **do not open a public GitHub issue** for security vulnerabilities.
+Instead, report it privately using GitHub’s built-in private vulnerability reporting feature:
+https://github.com/AOSSIE-Org/SocialShareButton/security/advisories/new
 
-Instead, report the issue privately by contacting the maintainers of the repository.
+This ensures the issue can be addressed responsibly and without exposing users to risk.
+
+You may also contact the maintainers directly if necessary.
 
 ## What to Include in Your Report
 
