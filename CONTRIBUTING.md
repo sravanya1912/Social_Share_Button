@@ -35,9 +35,9 @@ git clone https://github.com/YOUR_USERNAME/SocialShareButton.git
 
 +Always create a new branch for your changes:
 
-+```bash 
-+git checkout -b feature/your-feature-name
-+```
+```bash 
+git checkout -b feature/your-feature-name
+```
 +**Examples:**
 
 +_ `feature/add-linkedin-support`
@@ -86,9 +86,9 @@ docs: improve README installation section
 ### 6️⃣ Push and Open a Pull Request
 
 Push your branch:
-
-###### git push origin feature/your-feature-name
-
+```bash
+ git push origin feature/your-feature-name
+```
 
 - Then open a Pull Request including:
 
