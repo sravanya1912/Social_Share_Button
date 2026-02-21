@@ -21,6 +21,8 @@ https://github.com/AOSSIE-Org/SocialShareButton/security/advisories/new
 
 Private reporting ensures the issue can be addressed responsibly without exposing users to unnecessary risk.
 
+**Note:** If the link above does not work (because private reporting is not yet enabled), contributors can refer to [GitHub Docs on configuring private vulnerability reporting](https://docs.github.com/en/code-security/how-tos/secure-at-scale/configure-organization-security/configure-specific-tools/configuring-private-vulnerability-reporting-for-an-organization) to understand how the organization will enable it.
+
 ## What to Include in Your Report
 
 To help us investigate efficiently, please include:
